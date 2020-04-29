@@ -25,6 +25,7 @@ Dataset can be found [here](https://www.kaggle.com/thec03u5/seinfeld-chronicles#
 	`pip install -r requirements.txt`
 	
 or
+
 	`conda install --yes --file requirements.txt`
 
 4. Open a terminal window and navigate to the project folder. Open the notebook and follow the steps.
