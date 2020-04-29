@@ -9,7 +9,7 @@ Dataset can be found [here](https://www.kaggle.com/thec03u5/seinfeld-chronicles#
 
 1. Clone the repository and navigate to the downloaded folder.
 
-    `git clone https://github.com/HectorBudielE/udacity-tv-script-generation.git`
+    `git clone https://github.com/DhruvMakwana/TV_Script_Generation_pytorch_udacity.git`
 	
 2. Make sure you have already installed the necessary Python packages according to the requirements.txt file.
 
