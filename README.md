@@ -9,11 +9,22 @@ Dataset can be found [here](https://www.kaggle.com/thec03u5/seinfeld-chronicles#
 
 1. Clone the repository and navigate to the downloaded folder.
 
-    `git clone https://github.com/DhruvMakwana/TV_Script_Generation_pytorch_udacity.git`
+    git clone https://github.com/DhruvMakwana/TV_Script_Generation_pytorch_udacity.git
+    
+2. Install PyTorch and torchvision; this should install the latest version of PyTorch.
+	* Linux or Mac:
+		conda install pytorch torchvision -c pytorch
+	* Windows:
+		conda install pytorch -c pytorch
+		pip install torchvision
+3. Make sure you have already installed the necessary Python packages according to the requirements.txt file.
+	pip install -r requirements.txt
 	
-2. Make sure you have already installed the necessary Python packages according to the requirements.txt file.
+or
+	
+	conda install --yes --file requirements.txt
 
-3. Open a terminal window and navigate to the project folder. Open the notebook and follow the steps.
+4. Open a terminal window and navigate to the project folder. Open the notebook and follow the steps.
 
     `jupyter dlnd_tv_script_generation.ipynb`
     
